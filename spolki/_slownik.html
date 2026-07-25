@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Słownik pojęć - warstwa spółek - Surowce ziem rzadkich</title>
+<link rel="stylesheet" href="../static/style.css">
+<script>window.SITE_ROOT="../";</script>
+</head>
+<body>
+<button id="menu-toggle" aria-label="Menu">&#9776;</button>
+<nav id="sidebar"><a class="nav-home" href="../index.html">Surowce ziem rzadkich</a>
+<div class="nav-search"><input id="searchbox" type="search" placeholder="Szukaj... (/)" autocomplete="off"><div id="search-results"></div></div>
+<a class="nav-graf" href="../graf.html">Graf powiązań</a>
+<div class="nav-sec"><span class="nav-h">Sekcje tematyczne</span><ol><li><a href="../01-podstawy-pierwiastki-wlasnosci-ekonomia-pierwiastkowa.html">Podstawy: pierwiastki, własności, ekonomia pierwiastkowa</a></li><li><a href="../02-geologia-i-zasoby-zloz.html">Geologia i zasoby złóż</a></li><li><a href="../03-wydobycie-upstream.html">Wydobycie (upstream)</a></li><li><a href="../04-separacja-rafinacja-i-metalurgia.html">Separacja, rafinacja i metalurgia</a></li><li><a href="../05-lancuch-magnesow-trwalych-ndfeb-i-smco.html">Łańcuch magnesów trwałych NdFeB i SmCo</a></li><li><a href="../06-popyt-i-zastosowania-koncowe.html">Popyt i zastosowania końcowe</a></li><li><a href="../07-rynek-bilans-podaz-popyt-ceny-prognozy-do-2035.html">Rynek: bilans podaż-popyt, ceny, prognozy do 2035</a></li><li><a href="../08-geopolityka-i-koncentracja-lancucha-dostaw.html">Geopolityka i koncentracja łańcucha dostaw</a></li><li><a href="../09-dywersyfikacja-i-budowa-lancucha-poza-chinami.html">Dywersyfikacja i budowa łańcucha poza Chinami</a></li><li><a href="../10-recykling-i-zrodla-wtorne.html">Recykling i źródła wtórne</a></li><li><a href="../11-substytucja-i-ograniczanie-zuzycia.html">Substytucja i ograniczanie zużycia</a></li><li><a href="../12-srodowisko-radioaktywnosc-esg-i-regulacje.html">Środowisko, radioaktywność, ESG i regulacje</a></li><li><a href="../13-mapa-kluczowych-graczy-w-lancuchu.html">Mapa kluczowych graczy w łańcuchu</a></li></ol></div>
+<div class="nav-sec"><span class="nav-h">Spółki - omówienie pełne</span><ul><li><a href="arafura.html">ARAFURA RARE EARTHS 🇦🇺 (ASX:ARU)</a></li><li><a href="china-northern.html">CHINA NORTHERN RARE EARTH 🇨🇳 (SSE:600111)</a></li><li><a href="energy-fuels.html">ENERGY FUELS 🇺🇸 (NYSE American:UUUU)</a></li><li><a href="iluka.html">ILUKA RESOURCES 🇦🇺 (ASX:ILU)</a></li><li><a href="jl-mag.html">JL MAG RARE-EARTH 🇨🇳 (SZSE:300748)</a></li><li><a href="lynas.html">LYNAS RARE EARTHS 🇦🇺 (ASX:LYC)</a></li><li><a href="mp-materials.html">MP MATERIALS 🇺🇸 (NYSE:MP)</a></li><li><a href="neo-performance.html">NEO PERFORMANCE MATERIALS 🇨🇦 (TSX:NEO)</a></li><li><a href="shenghe.html">SHENGHE RESOURCES 🇨🇳 (SSE:600392)</a></li><li><a href="usa-rare-earth.html">USA RARE EARTH 🇺🇸 (Nasdaq:USAR)</a></li></ul></div>
+<div class="nav-sec"><span class="nav-h">Spółki - omówienie skrótowe</span><ul><li><a href="aclara.html">ACLARA RESOURCES 🇨🇱 (TSX:ARA)</a></li><li><a href="asm.html">AUSTRALIAN STRATEGIC MATERIALS 🇦🇺 (ASX:ASM)</a></li><li><a href="critical-metals.html">CRITICAL METALS 🇺🇸 (Nasdaq:CRML)</a></li><li><a href="defense-metals.html">DEFENSE METALS 🇨🇦 (TSXV:DEFN)</a></li><li><a href="hastings.html">HASTINGS TECHNOLOGY METALS 🇦🇺 (ASX:HAS)</a></li><li><a href="ionic-re.html">IONIC RARE EARTHS 🇦🇺 (ASX:IXR)</a></li><li><a href="meteoric.html">METEORIC RESOURCES 🇦🇺 (ASX:MEI)</a></li><li><a href="mkango.html">MKANGO RESOURCES 🇨🇦 (AIM:MKA)</a></li><li><a href="ningbo-yunsheng.html">NINGBO YUNSHENG 🇨🇳 (SSE:600366)</a></li><li><a href="niocorp.html">NIOCORP DEVELOPMENTS 🇺🇸 (Nasdaq:NB)</a></li><li><a href="peak.html">PEAK RARE EARTHS 🇦🇺 (ASX:PEK)</a></li><li><a href="pensana.html">PENSANA 🇬🇧 (LSE:PRE)</a></li><li><a href="rainbow-re.html">RAINBOW RARE EARTHS 🇬🇬 (LSE:RBW)</a></li><li><a href="shin-etsu.html">SHIN-ETSU CHEMICAL 🇯🇵 (TSE:4063)</a></li><li><a href="solvay.html">SOLVAY 🇧🇪 (Euronext Brussels:SOLB)</a></li><li><a href="tdk.html">TDK 🇯🇵 (TSE:6762)</a></li><li><a href="vital-metals.html">VITAL METALS 🇦🇺 (ASX:VML)</a></li><li><a href="xiamen-tungsten.html">XIAMEN TUNGSTEN 🇨🇳 (SSE:600549)</a></li><li><a href="zhongke-sanhuan.html">ZHONG KE SAN HUAN 🇨🇳 (SZSE:000970)</a></li></ul></div>
+<div class="nav-sec"><span class="nav-h">Indeksy</span><ul><li><a class="active" href="_slownik.html">Słownik pojęć - warstwa spółek</a></li><li><a href="_widok-gpw-eu.html">Spółki z ekspozycją GPW / Europa</a></li></ul></div></nav>
+<main>
+<article class="page" data-group="indeks">
+<div class="content"><h1 id="słownik-pojęć-warstwa-spółek">Słownik pojęć - warstwa spółek</h1>
+<h2 id="45x">45X</h2>
+<p>amerykańska ulga podatkowa dla kwalifikowanej produkcji komponentów i minerałów krytycznych.</p>
+<h2 id="adjusted-ebitda">Adjusted-EBITDA</h2>
+<p>wynik operacyjny przed odsetkami, podatkami i amortyzacją, skorygowany o pozycje wskazane przez zarząd.</p>
+<h2 id="adjusted-net-income">Adjusted-Net-Income</h2>
+<p>skorygowany wynik netto po wyłączeniu pozycji określonych przez zarząd.</p>
+<h2 id="aisc">AISC</h2>
+<p>all-in sustaining cost, jednostkowy koszt obejmujący produkcję oraz nakłady potrzebne do utrzymania działalności.</p>
+<h2 id="alnico">AlNiCo</h2>
+<p>magnes trwały na bazie aluminium, niklu i kobaltu.</p>
+<h2 id="aud">AUD</h2>
+<p>dolar australijski.</p>
+<h2 id="aud-kg">AUD-kg</h2>
+<p>dolar australijski za kilogram - jednostka ceny.</p>
+<h2 id="bbsy">BBSY</h2>
+<p>australijska referencyjna stopa procentowa wykorzystywana przy ustalaniu oprocentowania instrumentów finansowych.</p>
+<h2 id="bev">BEV</h2>
+<p>bateryjny pojazd elektryczny.</p>
+<h2 id="bfs">BFS</h2>
+<p>bankowe studium wykonalności, szczegółowa analiza techniczna i ekonomiczna projektu.</p>
+<h2 id="blanks">blanks</h2>
+<p>wsady lub półwyroby magnetyczne przed końcową obróbką i wykończeniem.</p>
+<h2 id="bought-deal">bought-deal</h2>
+<p>emisja akcji, w której gwarant emisji z góry kupuje oferowany pakiet od emitenta.</p>
+<h2 id="br">BR</h2>
+<p>działalność badawczo-rozwojowa.</p>
+<h2 id="cagr">CAGR</h2>
+<p>średnioroczna skumulowana stopa wzrostu w określonym okresie.</p>
+<h2 id="capex">capex</h2>
+<p>nakłady inwestycyjne.</p>
+<h2 id="capex">CAPEX</h2>
+<p>nakłady inwestycyjne potrzebne do budowy i uruchomienia projektu.</p>
+<h2 id="cash-cost">cash-cost</h2>
+<p>bezpośredni jednostkowy koszt gotówkowy produkcji.</p>
+<h2 id="cash-flow">cash-flow</h2>
+<p>przepływy pieniężne przedsiębiorstwa.</p>
+<h2 id="cdi">CDI</h2>
+<p>australijski instrument depozytowy reprezentujący akcje spółki notowanej za granicą.</p>
+<h2 id="chips-act">CHIPS-Act</h2>
+<p>amerykańska ustawa wspierająca krajową produkcję półprzewodników i powiązane łańcuchy materiałowe.</p>
+<h2 id="cny">CNY</h2>
+<p>juan chiński, waluta sprawozdawcza Shenghe.</p>
+<h2 id="commissioning">commissioning</h2>
+<p>uruchamianie i testowanie instalacji przed regularną produkcją.</p>
+<h2 id="contract-for-difference">contract-for-difference</h2>
+<p>kontrakt wyrównujący różnicę pomiędzy ceną rynkową a ustalonym poziomem referencyjnym.</p>
+<h2 id="cornerstone-equity">cornerstone-equity</h2>
+<p>kapitał obejmowany przez kluczowego inwestora mającego zakotwiczyć większą emisję.</p>
+<h2 id="cost-plus">cost-plus</h2>
+<p>sposób ustalania ceny przez doliczenie narzutu do kosztu produktu.</p>
+<h2 id="cutoff">cutoff</h2>
+<p>minimalna zawartość surowca przyjmowana przy szacowaniu zasobów złoża.</p>
+<h2 id="dcf">DCF</h2>
+<p>metoda wyceny projektu oparta na zdyskontowanych przyszłych przepływach pieniężnych.</p>
+<h2 id="dfars">DFARS</h2>
+<p>przepisy uzupełniające zasady zamówień obronnych USA.</p>
+<h2 id="dfc">DFC</h2>
+<p>U.S. International Development Finance Corporation, amerykańska instytucja finansowania rozwoju.</p>
+<h2 id="dfs">DFS</h2>
+<p>ostateczne studium wykonalności.</p>
+<h2 id="dfs">dfs</h2>
+<p>ostateczne studium wykonalności projektu.</p>
+<h2 id="downstream">downstream</h2>
+<p>dalsze etapy łańcucha, obejmujące przetwarzanie surowców w materiały i produkty o wyższej wartości dodanej.</p>
+<h2 id="dy">Dy</h2>
+<p>ciężki pierwiastek ziem rzadkich stosowany w magnesach odpornych na wysoką temperaturę.</p>
+<h2 id="dy-tb">Dy-Tb</h2>
+<p>dysproz i terb - ciężkie pierwiastki ziem rzadkich zwiększające odporność magnesów na wysoką temperaturę.</p>
+<h2 id="dy2o3">Dy2O3</h2>
+<p>tlenek dysprozu.</p>
+<h2 id="dyo">DyO</h2>
+<p>tlenek dysprozu.</p>
+<h2 id="dytb">DyTb</h2>
+<p>dysproz i terb, ciężkie metale magnetyczne.</p>
+<h2 id="ebit">EBIT</h2>
+<p>wynik operacyjny przed odsetkami i podatkami.</p>
+<h2 id="ebitda">EBITDA</h2>
+<p>wynik przed odsetkami, podatkami, amortyzacją i umorzeniem.</p>
+<h2 id="efa">EFA</h2>
+<p>Export Finance Australia, australijska instytucja finansująca projekt Eneabba.</p>
+<h2 id="electronics-materials">Electronics-Materials</h2>
+<p>segment sprawozdawczy Shin-Etsu obejmujący między innymi magnesy ziem rzadkich, krzem półprzewodnikowy, fotorezysty i kwarc syntetyczny.</p>
+<h2 id="eps">EPS</h2>
+<p>zysk lub strata netto przypadająca na akcję.</p>
+<h2 id="equator-principles">Equator-Principles</h2>
+<p>ramy oceny ryzyka środowiskowego i społecznego w finansowaniu projektów.</p>
+<h2 id="escrow">escrow</h2>
+<p>środki zatrzymane na wydzielonym rachunku do czasu spełnienia warunków transakcji.</p>
+<h2 id="ev">EV</h2>
+<p>pojazd elektryczny.</p>
+<h2 id="fcf">FCF</h2>
+<p>wolne przepływy pieniężne po uwzględnieniu wydatków inwestycyjnych.</p>
+<h2 id="fedy">FeDy</h2>
+<p>stop żelaza i dysprozu.</p>
+<h2 id="feedstock">feedstock</h2>
+<p>surowiec wejściowy kierowany do dalszego przerobu.</p>
+<h2 id="fenb">FeNb</h2>
+<p>stop żelaza i niobu stosowany jako dodatek do stali.</p>
+<h2 id="ferryt">ferryt</h2>
+<p>magnes trwały oparty na materiale ferrytowym.</p>
+<h2 id="fid">FID</h2>
+<p>ostateczna decyzja inwestycyjna zatwierdzająca realizację projektu.</p>
+<h2 id="firb">FIRB</h2>
+<p>Foreign Investment Review Board, australijski organ oceniający określone inwestycje zagraniczne.</p>
+<h2 id="floor">floor</h2>
+<p>kontraktowa cena minimalna, poniżej której druga strona dopłaca określoną różnicę.</p>
+<h2 id="floor-price">floor-price</h2>
+<p>kontraktowa cena minimalna, poniżej której druga strona dopłaca różnicę.</p>
+<h2 id="flotacja">flotacja</h2>
+<p>proces wzbogacania rudy i oddzielania minerałów wartościowych.</p>
+<h2 id="fosfogips">fosfogips</h2>
+<p>produkt uboczny powstający przy produkcji kwasu fosforowego.</p>
+<h2 id="free-carried-interest">free-carried-interest</h2>
+<p>udział, którego posiadacz nie finansuje na zasadach analogicznych do pozostałych udziałowców.</p>
+<h2 id="fully-diluted">fully-diluted</h2>
+<p>liczba akcji po uwzględnieniu potencjalnej konwersji instrumentów rozwadniających.</p>
+<h2 id="funt">funt</h2>
+<p>jednostka masy stosowana między innymi w raportowaniu produkcji i sprzedaży uranu.</p>
+<h2 id="fvoci">FVOCI</h2>
+<p>klasyfikacja aktywa finansowego wycenianego w wartości godziwej, którego zmiany wartości ujmuje się w innych całkowitych dochodach.</p>
+<h2 id="g-t">g-t</h2>
+<p>gramy składnika na tonę materiału.</p>
+<h2 id="hal">HAL</h2>
+<p>metoda dyfuzji ciężkich pierwiastków ziem rzadkich na granicach ziaren magnesu.</p>
+<h2 id="hdd">HDD</h2>
+<p>magnetyczny dysk twardy.</p>
+<h2 id="heap-leach">heap-leach</h2>
+<p>ługowanie rudy ułożonej na przygotowanej pryzmie.</p>
+<h2 id="hms">HMS</h2>
+<p>Heavy Mineral Sands, piaski mineralne ciężkie zawierające między innymi monazyt, minerały tytanu i cyrkonu.</p>
+<h2 id="hre">HRE</h2>
+<p>ciężkie pierwiastki ziem rzadkich.</p>
+<h2 id="hree">HREE</h2>
+<p>ciężkie metale ziem rzadkich.</p>
+<h2 id="hreo">HREO</h2>
+<p>tlenki ciężkich metali ziem rzadkich.</p>
+<h2 id="hydrometalurgia">hydrometalurgia</h2>
+<p>odzyskiwanie metali z użyciem procesów prowadzonych w roztworach.</p>
+<h2 id="hyti">HyTi</h2>
+<p>wysokotytanowy produkt mineralny wykorzystywany jako surowiec dla przemysłu dwutlenku tytanu.</p>
+<h2 id="iac">IAC</h2>
+<p>złoże ziem rzadkich związanych z glinami adsorpcji jonowej.</p>
+<h2 id="ifc-performance-standards">IFC-Performance-Standards</h2>
+<p>standardy zarządzania ryzykiem środowiskowym i społecznym projektów.</p>
+<h2 id="ifrs">IFRS</h2>
+<p>międzynarodowe standardy sprawozdawczości finansowej.</p>
+<h2 id="inferred">Inferred</h2>
+<p>kategoria zasobów o najniższym poziomie pewności geologicznej.</p>
+<h2 id="integracja-pionowa">integracja-pionowa</h2>
+<p>kontrolowanie kolejnych etapów łańcucha, od surowca do produktu końcowego.</p>
+<h2 id="ionic-clay">ionic-clay</h2>
+<p>złoże ziem rzadkich związanych z minerałami ilastymi, z których pierwiastki mogą być odzyskiwane przez ługowanie.</p>
+<h2 id="irr">IRR</h2>
+<p>wewnętrzna stopa zwrotu projektu.</p>
+<h2 id="irr">irr</h2>
+<p>wewnętrzna stopa zwrotu projektu.</p>
+<h2 id="jorc">JORC</h2>
+<p>standard raportowania wyników poszukiwań, zasobów mineralnych i rezerw rudy.</p>
+<h2 id="jpy">JPY</h2>
+<p>jen japoński.</p>
+<h2 id="jtf">JTF</h2>
+<p>Just Transition Fund, europejski Fundusz na rzecz Sprawiedliwej Transformacji.</p>
+<h2 id="jv">JV</h2>
+<p>joint venture, wspólne przedsięwzięcie prowadzone przez co najmniej dwóch partnerów.</p>
+<h2 id="kg">kg</h2>
+<p>kilogram.</p>
+<h2 id="km">km</h2>
+<p>kilometr.</p>
+<h2 id="km2">km2</h2>
+<p>kilometr kwadratowy.</p>
+<h2 id="koncentrat">koncentrat</h2>
+<p>wzbogacony materiał mineralny otrzymywany po przeróbce wydobytej rudy.</p>
+<h2 id="koncentrat-ree">koncentrat-REE</h2>
+<p>wzbogacony produkt mineralny o wyższej zawartości ziem rzadkich niż pierwotna ruda.</p>
+<h2 id="kt-rok">kt-rok</h2>
+<p>tysiąc ton rocznie (kiloton na rok).</p>
+<h2 id="ktpa">ktpa</h2>
+<p>tysiące ton metrycznych rocznie.</p>
+<h2 id="la-co">La-Co</h2>
+<p>wysokowydajny ferryt lantanowo-kobaltowy.</p>
+<h2 id="life-of-mine">life-of-mine</h2>
+<p>pełny zakładany okres eksploatacji kopalni.</p>
+<h2 id="loi">LOI</h2>
+<p>list intencyjny opisujący planowane warunki transakcji, zwykle niewiążący w głównym zakresie ekonomicznym.</p>
+<h2 id="long-loop">long-loop</h2>
+<p>model recyklingu obejmujący chemiczne rozdzielenie odzyskanego materiału do postaci oczyszczonych związków ziem rzadkich.</p>
+<h2 id="lree">LREE</h2>
+<p>lekkie pierwiastki ziem rzadkich, obejmujące między innymi cer, lantan, neodym i prazeodym.</p>
+<h2 id="ltifr">LTIFR</h2>
+<p>częstotliwość urazów powodujących utratę czasu pracy w przeliczeniu na przepracowane godziny.</p>
+<h2 id="magnet-reo">magnet-REO</h2>
+<p>tlenki ziem rzadkich wykorzystywane w łańcuchu produkcji magnesów.</p>
+<h2 id="marza-brutto">marza-brutto</h2>
+<p>udział zysku brutto na sprzedaży w przychodzie.</p>
+<h2 id="measured-indicated">Measured-Indicated</h2>
+<p>kategorie zasobów mineralnych (zmierzone i wskazane) o wyższym poziomie rozpoznania niż zasoby wnioskowane.</p>
+<h2 id="midstream">midstream</h2>
+<p>środkowa część łańcucha wartości, obejmująca przetwarzanie, separację i rafinację surowców.</p>
+<h2 id="mine-to-magnet">mine-to-magnet</h2>
+<p>model obejmujący kolejne etapy od wydobycia surowca przez separację, metale i stopy do gotowego magnesu.</p>
+<h2 id="mineral-resource">Mineral-Resource</h2>
+<p>oszacowana koncentracja surowców o perspektywach gospodarczego wydobycia.</p>
+<h2 id="mineral-resource">mineral-resource</h2>
+<p>oszacowana koncentracja surowca o uzasadnionych perspektywach gospodarczego wydobycia.</p>
+<h2 id="mln-a">mln-A</h2>
+<p>milion dolarów australijskich.</p>
+<h2 id="mln-aud">mln-aud</h2>
+<p>milion dolarów australijskich.</p>
+<h2 id="mln-ton">mln-ton</h2>
+<p>milion ton.</p>
+<h2 id="mln-usd">mln-usd</h2>
+<p>milion dolarów amerykańskich.</p>
+<h2 id="monacyt">monacyt</h2>
+<p>minerał fosforanowy zawierający pierwiastki ziem rzadkich.</p>
+<h2 id="monazyt">monazyt</h2>
+<p>minerał ciężki zawierający pierwiastki ziem rzadkich, stanowiący potencjalny wsad do separacji.</p>
+<h2 id="mou">MOU</h2>
+<p>memorandum porozumienia, zwykle opisujące zamiar współpracy bez pełnego zestawu wiążących zobowiązań umowy handlowej.</p>
+<h2 id="mou">MoU</h2>
+<p>memorandum porozumienia, zwykle opisujące zamiar współpracy bez pełnego zestawu wiążących zobowiązań umowy handlowej.</p>
+<h2 id="mrec">mrec</h2>
+<p>mieszany węglan ziem rzadkich.</p>
+<h2 id="mrec">MREC</h2>
+<p>mieszany węglan metali ziem rzadkich.</p>
+<h2 id="mreo">MREO</h2>
+<p>tlenki magnetycznych pierwiastków ziem rzadkich.</p>
+<h2 id="mt">mT</h2>
+<p>tona metryczna, jednostka masy odpowiadająca tonie.</p>
+<h2 id="mt">Mt</h2>
+<p>milion ton.</p>
+<h2 id="mtpa">MTPA</h2>
+<p>metryczne tony zdolności produkcyjnej rocznie.</p>
+<h2 id="mw">MW</h2>
+<p>megawat, jednostka mocy.</p>
+<h2 id="nameplate-capacity">nameplate-capacity</h2>
+<p>nominalna moc projektowa instalacji, która nie musi odpowiadać rzeczywistej produkcji.</p>
+<h2 id="nb2o5">Nb2O5</h2>
+<p>pięciotlenek niobu, forma raportowania zawartości niobu w złożu.</p>
+<h2 id="nd-pr-dy-tb">Nd-Pr-Dy-Tb</h2>
+<p>neodym, prazeodym, dysproz i terb - zestaw pierwiastków magnetycznych ziem rzadkich.</p>
+<h2 id="nd2o3">Nd2O3</h2>
+<p>tlenek neodymu.</p>
+<h2 id="ndfeb">NdFeB</h2>
+<p>stop neodymu, żelaza i boru wykorzystywany do produkcji magnesów trwałych.</p>
+<h2 id="ndpr">NdPr</h2>
+<p>łączne określenie neodymu i prazeodymu, wykorzystywanych między innymi w magnesach trwałych.</p>
+<h2 id="ndpr">ndpr</h2>
+<p>neodym i prazeodym, pierwiastki wykorzystywane między innymi w magnesach trwałych.</p>
+<h2 id="nev">NEV</h2>
+<p>pojazdy nowych źródeł energii, obejmujące przede wszystkim pojazdy elektryczne i inne zelektryfikowane układy napędowe.</p>
+<h2 id="ni-43-101">NI-43-101</h2>
+<p>kanadyjski standard raportowania informacji o projektach mineralnych.</p>
+<h2 id="nimh">NiMH</h2>
+<p>akumulator niklowo-wodorkowy wykorzystujący materiały zdolne do magazynowania wodoru.</p>
+<h2 id="niob">niob</h2>
+<p>metal krytyczny stosowany między innymi w stopach o podwyższonej wytrzymałości.</p>
+<h2 id="non-gaap">non-GAAP</h2>
+<p>wynik skorygowany o wskazane zdarzenia jednorazowe lub pozycje nieuwzględniane w mierze zarządczej.</p>
+<h2 id="non-recourse">non-recourse</h2>
+<p>finansowanie, w którym wierzyciel dochodzi spłaty zasadniczo z aktywów i przepływów projektu, a nie z całego majątku sponsora.</p>
+<h2 id="npat">NPAT</h2>
+<p>zysk netto po opodatkowaniu.</p>
+<h2 id="npv">NPV</h2>
+<p>wartość bieżąca netto prognozowanych przepływów pieniężnych.</p>
+<h2 id="npv10">NPV10</h2>
+<p>wartość bieżąca netto projektu obliczona przy stopie dyskontowej 10%.</p>
+<h2 id="npv8">npv8</h2>
+<p>wartość bieżąca netto obliczona przy stopie dyskontowej 8%.</p>
+<h2 id="npv8">NPV8</h2>
+<p>wartość bieżąca netto obliczona przy stopie dyskontowej 8%.</p>
+<h2 id="oem-tier-1">OEM-Tier-1</h2>
+<p>dostawca pierwszego rzędu dla producenta oryginalnego wyposażenia (OEM).</p>
+<h2 id="offtake">offtake</h2>
+<p>umowa odbioru określonej ilości przyszłej produkcji.</p>
+<h2 id="opex">opex</h2>
+<p>koszty operacyjne prowadzenia działalności.</p>
+<h2 id="ore-reserve">Ore-Reserve</h2>
+<p>część zasobu uznana za ekonomicznie możliwą do wydobycia przy przyjętych założeniach.</p>
+<h2 id="ore-reserve">ore-reserve</h2>
+<p>ekonomicznie wydobywalna część zasobów, określona na podstawie odpowiednich analiz.</p>
+<h2 id="ore-to-oxide">ore-to-oxide</h2>
+<p>zintegrowany model obejmujący drogę od wydobytej rudy do oczyszczonych tlenków metali ziem rzadkich.</p>
+<h2 id="organiczny-wzrost">organiczny-wzrost</h2>
+<p>zmiana sprzedaży po wyłączeniu wpływu między innymi kursów walutowych i zmian zakresu konsolidacji.</p>
+<h2 id="p2o5">P2O5</h2>
+<p>pięciotlenek fosforu, standardowa miara zawartości fosforanów w surowcu.</p>
+<h2 id="pass-through-pricing">pass-through-pricing</h2>
+<p>mechanizm umowny dostosowujący cenę sprzedaży do zmian kosztu surowca lub innego składnika wejściowego.</p>
+<h2 id="payback">payback</h2>
+<p>czas potrzebny do odzyskania nakładów według modelu projektu.</p>
+<h2 id="pea">PEA</h2>
+<p>wstępna ocena ekonomiczna projektu górniczego, oparta na założeniach koncepcyjnych.</p>
+<h2 id="pfs">PFS</h2>
+<p>wstępne studium wykonalności projektu górniczego.</p>
+<h2 id="pik">PIK</h2>
+<p>dywidenda lub odsetki regulowane przez zwiększenie wartości instrumentu zamiast bieżącej wypłaty gotówkowej.</p>
+<h2 id="pipe">PIPE</h2>
+<p>prywatna emisja akcji spółki publicznej dla wybranych inwestorów.</p>
+<h2 id="ppm">ppm</h2>
+<p>liczba części składnika na milion części materiału.</p>
+<h2 id="pre-revenue">pre-revenue</h2>
+<p>etap przed rozpoczęciem sprzedaży z podstawowej działalności projektu.</p>
+<h2 id="price-floor">price-floor</h2>
+<p>umowna cena minimalna ograniczająca ekspozycję sprzedawcy na spadek ceny produktu.</p>
+<h2 id="prnd">PrNd</h2>
+<p>surowiec wykorzystywany przede wszystkim do produkcji magnesów trwałych NdFeB.</p>
+<h2 id="procent">procent</h2>
+<p>procent, czyli część ze stu.</p>
+<h2 id="r-d">R-D</h2>
+<p>prace badawczo-rozwojowe (research and development).</p>
+<h2 id="rafinacja">rafinacja</h2>
+<p>oczyszczanie i rozdzielanie surowców w celu uzyskania materiałów odpowiednich do dalszego przetwarzania.</p>
+<h2 id="ramp-up">ramp-up</h2>
+<p>stopniowe zwiększanie produkcji po uruchomieniu zakładu.</p>
+<h2 id="ree">REE</h2>
+<p>pierwiastki ziem rzadkich.</p>
+<h2 id="reo">REO</h2>
+<p>tlenki ziem rzadkich.</p>
+<h2 id="rezerwa-mineralna">rezerwa-mineralna</h2>
+<p>część złoża objęta oceną techniczną i ekonomiczną, klasyfikowana między innymi jako Proven lub Probable.</p>
+<h2 id="rezerwy-rudy">rezerwy-rudy</h2>
+<p>część rozpoznanego złoża uznana za możliwą do ekonomicznego wydobycia przy przyjętych założeniach.</p>
+<h2 id="rmb">RMB</h2>
+<p>renminbi, waluta Chińskiej Republiki Ludowej.</p>
+<h2 id="rok-do-roku">rok-do-roku</h2>
+<p>porównanie wartości z analogicznym okresem poprzedniego roku.</p>
+<h2 id="rpo">RPO</h2>
+<p>remaining performance obligation, pozostała wartość zobowiązań wykonawczych wynikających z kontraktów z klientami.</p>
+<h2 id="rr">rr</h2>
+<p>rok do roku - porównanie z analogicznym okresem poprzedniego roku.</p>
+<h2 id="seg">SEG</h2>
+<p>produkt REE wzbogacony między innymi w dysproz, terb, samar, europ, gadolin i itr.</p>
+<h2 id="senior-secured">senior-secured</h2>
+<p>finansowanie zabezpieczone aktywami, mające wysoki priorytet spłaty.</p>
+<h2 id="separacja">separacja</h2>
+<p>etap rozdzielania mieszaniny ziem rzadkich na związki poszczególnych pierwiastków.</p>
+<h2 id="separacja-ree">separacja-REE</h2>
+<p>chemiczne rozdzielanie mieszaniny ziem rzadkich na związki poszczególnych pierwiastków lub ich grup.</p>
+<h2 id="sg-a">SG-A</h2>
+<p>koszty sprzedaży, ogólnego zarządu i administracji (selling, general and administrative).</p>
+<h2 id="smco">SmCo</h2>
+<p>magnes trwały na bazie samaru i kobaltu.</p>
+<h2 id="solvent-extraction">solvent-extraction</h2>
+<p>ekstrakcja rozpuszczalnikowa - metoda separacji pierwiastków ziem rzadkich w roztworze.</p>
+<h2 id="spac">SPAC</h2>
+<p>spółka celowa pozyskująca kapitał w celu przeprowadzenia połączenia z przedsiębiorstwem operacyjnym.</p>
+<h2 id="spv">SPV</h2>
+<p>spółka celowa utworzona do realizacji określonej transakcji lub projektu.</p>
+<h2 id="strip-casting">strip-casting</h2>
+<p>szybkie odlewanie cienkich taśm stopu, wykorzystywanych jako materiał wejściowy do produkcji magnesów.</p>
+<h2 id="t">t</h2>
+<p>tona metryczna.</p>
+<h2 id="t-rok">t-rok</h2>
+<p>ton rocznie.</p>
+<h2 id="take-or-pay">take-or-pay</h2>
+<p>umowa zobowiązująca odbiorcę do odebrania zakontraktowanego wolumenu albo zapłaty mimo braku odbioru.</p>
+<h2 id="tb">Tb</h2>
+<p>ciężki pierwiastek ziem rzadkich używany między innymi w materiałach magnetycznych.</p>
+<h2 id="tb4o7">Tb4O7</h2>
+<p>tlenek terbu.</p>
+<h2 id="tbo">TbO</h2>
+<p>tlenek terbu.</p>
+<h2 id="tenor">tenor</h2>
+<p>umowny okres do spłaty finansowania.</p>
+<h2 id="tio2">TiO2</h2>
+<p>dwutlenek tytanu, forma raportowania zawartości tytanu w złożu.</p>
+<h2 id="toll-processing">toll-processing</h2>
+<p>przerób usługowy materiału należącego do innego podmiotu.</p>
+<h2 id="tona">tona</h2>
+<p>jednostka masy odpowiadająca tysiącowi kilogramów.</p>
+<h2 id="tona-na-rok">tona-na-rok</h2>
+<p>jednostka rocznej nominalnej mocy produkcyjnej.</p>
+<h2 id="tony-na-rok">tony-na-rok</h2>
+<p>jednostka rocznej zdolności produkcyjnej.</p>
+<h2 id="tpa">tpa</h2>
+<p>jednostka rocznej zdolności produkcyjnej lub przerobowej.</p>
+<h2 id="tpd">tpd</h2>
+<p>tons per day, liczba ton przerabianych dziennie.</p>
+<h2 id="transza">transza</h2>
+<p>wyodrębniona część finansowania wypłacana zgodnie z warunkami umowy.</p>
+<h2 id="treo">TREO</h2>
+<p>całkowita zawartość tlenków pierwiastków ziem rzadkich.</p>
+<h2 id="treo">treo</h2>
+<p>łączna zawartość tlenków ziem rzadkich.</p>
+<h2 id="trifr">TRIFR</h2>
+<p>częstotliwość wszystkich rejestrowalnych urazów i chorób zawodowych w przeliczeniu na przepracowane godziny.</p>
+<h2 id="ttm">TTM</h2>
+<p>dane finansowe za ostatnie dostępne miesiące obejmujące pełny rok.</p>
+<h2 id="u3o8">U3O8</h2>
+<p>koncentrat tlenku uranu, często określany jako yellowcake.</p>
+<h2 id="ujv">ujv</h2>
+<p>wspólne przedsięwzięcie bez utworzenia odrębnej osoby prawnej.</p>
+<h2 id="umowa-ramowa">umowa-ramowa</h2>
+<p>porozumienie ustalające ogólne zasady współpracy, które bez dodatkowych zamówień nie musi gwarantować wolumenu.</p>
+<h2 id="ungeared">ungeared</h2>
+<p>model finansowy sporządzony bez uwzględniania zadłużenia i efektów dźwigni finansowej.</p>
+<h2 id="upstream">upstream</h2>
+<p>początkowa część łańcucha obejmująca wydobycie i wstępne wzbogacanie surowca.</p>
+<h2 id="usd">USD</h2>
+<p>dolar amerykański.</p>
+<h2 id="usd-kg">USD-kg</h2>
+<p>dolar amerykański za kilogram - jednostka ceny.</p>
+<h2 id="vcm">VCM</h2>
+<p>silnik cewki drgającej sterujący położeniem głowicy dysku.</p>
+<h2 id="vwap">VWAP</h2>
+<p>średnia cena akcji ważona wolumenem obrotu w określonym okresie.</p>
+<h2 id="warrant">warrant</h2>
+<p>prawo objęcia akcji po z góry ustalonej cenie i w określonym terminie.</p>
+<h2 id="wlp">WLP</h2>
+<p>pozostałość po ługowaniu i oczyszczaniu wody, będąca regulowanym strumieniem odpadowym zakładu w Malezji.</p>
+<h2 id="wolfram-molibden">wolfram-molibden</h2>
+<p>segment obejmujący wydobycie, przetwarzanie i materiały wykorzystujące wolfram oraz molibden.</p>
+<h2 id="zasob-mineralny">zasob-mineralny</h2>
+<p>oszacowana koncentracja surowca o potencjalnym znaczeniu gospodarczym, która nie musi jeszcze stanowić rezerwy możliwej do opłacalnego wydobycia.</p>
+<h2 id="zasoby-mineralne">zasoby-mineralne</h2>
+<p>oszacowana koncentracja surowca o określonym poziomie rozpoznania geologicznego.</p>
+<h2 id="zero-liquid-discharge">zero-liquid-discharge</h2>
+<p>konstrukcja procesu ograniczająca odprowadzanie ciekłych odpadów przez odzysk wody i odczynników.</p>
+<h2 id="ziemie-rzadkie">ziemie-rzadkie</h2>
+<p>grupa pierwiastków wykorzystywanych między innymi w magnesach, elektronice i materiałach optycznych.</p>
+<h2 id="zloze-bastnazytowe">zloze-bastnazytowe</h2>
+<p>złoże zawierające bastnazyt, minerał będący nośnikiem pierwiastków ziem rzadkich.</p></div>
+
+</article>
+<footer>Surowce ziem rzadkich - Rynek, lancuch dostaw i spolki</footer>
+</main>
+<script src="../static/search-index.js"></script>
+<script src="../static/app.js"></script>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:true, theme:"neutral", securityLevel:"loose"});
+</script>
+</body>
+</html>

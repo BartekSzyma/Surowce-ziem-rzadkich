@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="778.79156" height="423.58633" viewBox="0 0 778.79156 423.58633" id="svg5929" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Periodic_table.svg" font-family="DejaVu Sans Light, sans-serif" font-size="16px" text-anchor="middle">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1280" inkscape:window-height="961" id="namedview404" showgrid="false" showguides="false" inkscape:guide-bbox="true" inkscape:zoom="1.1004228" inkscape:cx="389.39578" inkscape:cy="211.79316" inkscape:window-x="-8" inkscape:window-y="77" inkscape:window-maximized="1" inkscape:current-layer="svg5929" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" fit-margin-left="5" fit-margin-top="5" fit-margin-bottom="5" fit-margin-right="5" inkscape:bbox-nodes="true" inkscape:snap-bbox-midpoints="true" showborder="false">
+  </sodipodi:namedview>
+  <metadata id="metadata6730">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6728"/>
+  <path style="fill:#ff99cc" id="path5933" d="m 137.29158,319.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#ffbfff" id="path5935" d="m 137.29158,279.36622 v -36 h 36 v 36 z"/>
+  <g transform="translate(377.29158,319.36622)" id="unknown_class" style="fill:#e8e8e8;stroke:#000000;stroke-width:1">
+    <path d="M 0,0 V -36 H 36 V 0 z" id="path5940"/>
+    <path d="M 40,0 V -36 H 76 V 0 z" id="path5942"/>
+    <path d="m 80,0 v -36 h 36 V 0 z" id="path5944"/>
+    <path d="m 160,0 v -36 h 36 V 0 z" id="path5946"/>
+    <path d="m 200,0 v -36 h 36 V 0 z" id="path5948"/>
+    <path d="m 240,0 v -36 h 36 V 0 z" id="path5950"/>
+    <path d="m 280,0 v -36 h 36 V 0 z" id="path5952"/>
+    <path d="m 320,0 v -36 h 36 V 0 z" id="path5954"/>
+    <path d="m 360,0 v -36 h 36 V 0 z" id="path5956"/>
+  </g>
+  <g id="other_nonmetals" style="fill:#a0ffa0;stroke:#000000;stroke-width:1" transform="translate(-6.7084228,-67.633779)">
+    <path d="m 64,147 v -36 h 36 v 36 z" id="path5959"/>
+    <path d="m 664,267 v -36 h 36 v 36 z" id="path5961"/>
+    <path d="m 624,227 v -36 h 36 v 36 z" id="path5963"/>
+    <path d="m 664,227 v -36 h 36 v 36 z" id="path5965"/>
+    <path d="m 584,187 v -36 h 36 v 36 z" id="path5967"/>
+    <path d="m 624,187 v -36 h 36 v 36 z" id="path5969"/>
+    <path d="m 664,187 v -36 h 36 v 36 z" id="path5971"/>
+  </g>
+  <g transform="translate(57.291577,-67.633779)" id="alkali_metals" style="fill:#ff6666;stroke:#000000;stroke-width:1">
+    <path d="m 0,387 v -36 h 36 v 36 z" id="path5974"/>
+    <path d="m 0,347 v -36 h 36 v 36 z" id="path5976"/>
+    <path d="m 0,267 v -36 h 36 v 36 z" id="path5978"/>
+    <path d="m 0,227 v -36 h 36 v 36 z" id="path5980"/>
+    <path d="m 0,187 v -36 h 36 v 36 z" id="path5982"/>
+    <path d="m 0,307 v -36 h 36 v 36 z" id="path5984"/>
+  </g>
+  <g transform="translate(97.291577,119.36622)" id="alkali_earth_metals" style="fill:#ffdead;stroke:#000000;stroke-width:1">
+    <path d="M 0,0 V -36 H 36 V 0 z" id="path5987"/>
+    <path d="M 0,40 V 4 h 36 v 36 z" id="path5989"/>
+    <path d="M 0,80 V 44 h 36 v 36 z" id="path5991"/>
+    <path d="M 0,120 V 84 h 36 v 36 z" id="path5993"/>
+    <path d="m 0,160 v -36 h 36 v 36 z" id="path5995"/>
+    <path d="m 0,200 v -36 h 36 v 36 z" id="path5997"/>
+  </g>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6000" d="M 537.29158,119.36622 V 83.366221 h 36 v 35.999999 z"/>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6002" d="m 577.29158,159.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6004" d="m 577.29158,199.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6006" d="m 617.29158,199.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6008" d="m 617.29158,239.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#cccc99;stroke:#000000;stroke-width:1" id="path6010" d="m 657.29158,239.36622 v -36 h 36 v 36 z"/>
+  <path style="fill:#cccccc;stroke:#000000;stroke-width:1" id="path6012" d="m 657.29158,279.36622 v -36 h 36 v 36 z"/>
+  <g transform="translate(697.29158,119.36622)" id="halogens" style="fill:#ffff99;stroke:#000000;stroke-width:1">
+    <path d="M 0,0 V -36 H 36 V 0 z" id="path6015"/>
+    <path d="M 0,40 V 4 h 36 v 36 z" id="path6017"/>
+    <path d="M 0,80 V 44 h 36 v 36 z" id="path6019"/>
+    <path d="M 0,120 V 84 h 36 v 36 z" id="path6021"/>
+    <path d="m 0,160 v -36 h 36 v 36 z" id="path6023"/>
+  </g>
+  <g transform="translate(737.29158,79.366221)" id="noble_gases" style="fill:#c0ffff;stroke:#000000;stroke-width:1">
+    <path d="M 0,0 V -36 H 36 V 0 z" id="path6026"/>
+    <path d="M 0,40 V 4 h 36 v 36 z" id="path6028"/>
+    <path d="M 0,80 V 44 h 36 v 36 z" id="path6030"/>
+    <path d="M 0,120 V 84 h 36 v 36 z" id="path6032"/>
+    <path d="m 0,160 v -36 h 36 v 36 z" id="path6034"/>
+    <path d="m 0,200 v -36 h 36 v 36 z" id="path6036"/>
+  </g>
+  <g id="post-transition_metals" style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1" transform="translate(-6.7084228,-67.633779)">
+    <path d="m 544,227 v -36 h 36 v 36 z" id="path6039" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 544,267 v -36 h 36 v 36 z" id="path6041" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 544,307 v -36 h 36 v 36 z" id="path6043" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 544,347 v -36 h 36 v 36 z" id="path6045" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 584,307 v -36 h 36 v 36 z" id="path6047" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 584,347 v -36 h 36 v 36 z" id="path6049" style="fill:#cccccc;fill-opacity:1"/>
+    <path d="m 624,347 v -36 h 36 v 36 z" id="path6051" style="fill:#cccccc;fill-opacity:1"/>
+  </g>
+  <g transform="translate(177.29158,199.36622)" id="transition_metals" style="fill:#ffc0c0;stroke:#000000;stroke-width:1">
+    <path d="M 0,120 V 84 h 36 v 36 z" id="path6054"/>
+    <path d="M 40,120 V 84 h 36 v 36 z" id="path6056"/>
+    <path d="M 80,120 V 84 h 36 v 36 z" id="path6058"/>
+    <path d="M 120,120 V 84 h 36 v 36 z" id="path6060"/>
+    <path d="M 160,120 V 84 h 36 v 36 z" id="path6062"/>
+    <path d="M 320,120 V 84 h 36 v 36 z" id="path6064"/>
+    <path d="M 0,80 V 44 h 36 v 36 z" id="path6066"/>
+    <path d="M 40,80 V 44 h 36 v 36 z" id="path6068"/>
+    <path d="M 80,80 V 44 h 36 v 36 z" id="path6070"/>
+    <path d="M 120,80 V 44 h 36 v 36 z" id="path6072"/>
+    <path d="M 160,80 V 44 h 36 v 36 z" id="path6074"/>
+    <path d="M 200,80 V 44 h 36 v 36 z" id="path6076"/>
+    <path d="M 240,80 V 44 h 36 v 36 z" id="path6078"/>
+    <path d="M 280,80 V 44 h 36 v 36 z" id="path6080"/>
+    <path d="M 320,80 V 44 h 36 v 36 z" id="path6082"/>
+    <path d="M -40,40 V 4 h 36 v 36 z" id="path6084"/>
+    <path d="M 0,40 V 4 h 36 v 36 z" id="path6086"/>
+    <path d="M 40,40 V 4 h 36 v 36 z" id="path6088"/>
+    <path d="M 80,40 V 4 h 36 v 36 z" id="path6090"/>
+    <path d="M 120,40 V 4 h 36 v 36 z" id="path6092"/>
+    <path d="M 160,40 V 4 h 36 v 36 z" id="path6094"/>
+    <path d="M 200,40 V 4 h 36 v 36 z" id="path6096"/>
+    <path d="M 240,40 V 4 h 36 v 36 z" id="path6098"/>
+    <path d="M 280,40 V 4 h 36 v 36 z" id="path6100"/>
+    <path d="M 320,40 V 4 h 36 v 36 z" id="path6102"/>
+    <path d="M -40,0 V -36 H -4 V 0 z" id="path6104"/>
+    <path d="M 0,0 V -36 H 36 V 0 z" id="path6106"/>
+    <path d="M 40,0 V -36 H 76 V 0 z" id="path6108"/>
+    <path d="m 80,0 v -36 h 36 V 0 z" id="path6110"/>
+    <path d="m 120,0 v -36 h 36 V 0 z" id="path6112"/>
+    <path d="m 160,0 v -36 h 36 V 0 z" id="path6114"/>
+    <path d="m 200,0 v -36 h 36 V 0 z" id="path6116"/>
+    <path d="m 240,0 v -36 h 36 V 0 z" id="path6118"/>
+    <path d="m 280,0 v -36 h 36 V 0 z" id="path6120"/>
+    <path d="m 320,0 v -36 h 36 V 0 z" id="path6122"/>
+  </g>
+  <g id="g5121" transform="translate(3.9375195,0.18749744)">
+    <switch><text id="text6224" y="66.178726" x="31.354057"><tspan id="trsvg1">1</tspan></text></switch>
+    <switch><text id="text6226" y="106.17873" x="31.354057"><tspan id="trsvg2">2</tspan></text></switch>
+    <switch><text id="text6228" y="146.17871" x="31.354057"><tspan id="trsvg3">3</tspan></text></switch>
+    <switch><text id="text6230" y="186.17871" x="31.354057"><tspan id="trsvg4">4</tspan></text></switch>
+    <switch><text id="text6232" y="226.17871" x="31.354057"><tspan id="trsvg5">5</tspan></text></switch>
+    <switch><text id="text6234" y="266.17871" x="31.354057"><tspan id="trsvg6">6</tspan></text></switch>
+    <switch><text id="text6236" y="306.17871" x="31.354057"><tspan id="trsvg7">7</tspan></text></switch>
+  </g>
+  <switch><text id="text6240" x="755.29156" y="57.366222"><tspan id="trsvg8">2</tspan></text></switch>
+  <switch><text id="text6242" x="75.29158" y="57.366222"><tspan id="trsvg9">1</tspan></text></switch>
+  <switch><text id="text6244" x="755.29156" y="73.366226"><tspan id="trsvg10">He</tspan></text></switch>
+  <switch><text id="text6246" x="75.29158" y="73.366226"><tspan id="trsvg11">H</tspan></text></switch>
+  <switch><text id="text6248" x="115.29156" y="97.366226"><tspan id="trsvg12">4</tspan></text></switch>
+  <switch><text id="text6250" x="555.29156" y="97.366226"><tspan id="trsvg13">5</tspan></text></switch>
+  <switch><text id="text6252" x="595.29156" y="97.366226"><tspan id="trsvg14">6</tspan></text></switch>
+  <switch><text id="text6254" x="635.29156" y="97.366226"><tspan id="trsvg15">7</tspan></text></switch>
+  <switch><text id="text6256" x="675.29156" y="97.366226"><tspan id="trsvg16">8</tspan></text></switch>
+  <switch><text id="text6258" x="715.29156" y="97.366226"><tspan id="trsvg17">9</tspan></text></switch>
+  <switch><text id="text6260" x="755.29156" y="97.366226"><tspan id="trsvg18">10</tspan></text></switch>
+  <switch><text id="text6262" x="75.29158" y="97.366226"><tspan id="trsvg19">3</tspan></text></switch>
+  <switch><text id="text6264" x="115.29156" y="113.36623"><tspan id="trsvg20">Be</tspan></text></switch>
+  <switch><text id="text6266" x="555.29156" y="113.36623"><tspan id="trsvg21">B</tspan></text></switch>
+  <switch><text id="text6268" x="595.29156" y="113.36623"><tspan id="trsvg22">C</tspan></text></switch>
+  <switch><text id="text6270" x="635.29156" y="113.36623"><tspan id="trsvg23">N</tspan></text></switch>
+  <switch><text id="text6272" x="675.29156" y="113.36623"><tspan id="trsvg24">O</tspan></text></switch>
+  <switch><text id="text6274" x="715.29156" y="113.36623"><tspan id="trsvg25">F</tspan></text></switch>
+  <switch><text id="text6276" x="755.29156" y="113.36623"><tspan id="trsvg26">Ne</tspan></text></switch>
+  <switch><text id="text6278" x="75.29158" y="113.36623"><tspan id="trsvg27">Li</tspan></text></switch>
+  <switch><text id="text6280" x="115.29156" y="137.36623"><tspan id="trsvg28">12</tspan></text></switch>
+  <switch><text id="text6282" x="555.29156" y="137.36623"><tspan id="trsvg29">13</tspan></text></switch>
+  <switch><text id="text6284" x="595.29156" y="137.36623"><tspan id="trsvg30">14</tspan></text></switch>
+  <switch><text id="text6286" x="635.29156" y="137.36623"><tspan id="trsvg31">15</tspan></text></switch>
+  <switch><text id="text6288" x="675.29156" y="137.36623"><tspan id="trsvg32">16</tspan></text></switch>
+  <switch><text id="text6290" x="715.29156" y="137.36623"><tspan id="trsvg33">17</tspan></text></switch>
+  <switch><text id="text6292" x="755.29156" y="137.36623"><tspan id="trsvg34">18</tspan></text></switch>
+  <switch><text id="text6294" x="75.29158" y="137.36623"><tspan id="trsvg35">11</tspan></text></switch>
+  <switch><text id="text6296" x="115.29156" y="153.36621"><tspan id="trsvg36">Mg</tspan></text></switch>
+  <switch><text id="text6298" x="555.29156" y="153.36621"><tspan id="trsvg37">Al</tspan></text></switch>
+  <switch><text id="text6300" x="595.29156" y="153.36621"><tspan id="trsvg38">Si</tspan></text></switch>
+  <switch><text id="text6302" x="635.29156" y="153.36621"><tspan id="trsvg39">P</tspan></text></switch>
+  <switch><text id="text6304" x="675.29156" y="153.36621"><tspan id="trsvg40">S</tspan></text></switch>
+  <switch><text id="text6306" x="715.29156" y="153.36621"><tspan id="trsvg41">Cl</tspan></text></switch>
+  <switch><text id="text6308" x="755.29156" y="153.36621"><tspan id="trsvg42">Ar</tspan></text></switch>
+  <switch><text id="text6310" x="75.29158" y="153.36621"><tspan id="trsvg43">Na</tspan></text></switch>
+  <switch><text id="text6312" x="115.29156" y="177.36621"><tspan id="trsvg44">20</tspan></text></switch>
+  <switch><text id="text6314" x="155.29158" y="177.36621"><tspan id="trsvg45">21</tspan></text></switch>
+  <switch><text id="text6316" x="195.29158" y="177.36621"><tspan id="trsvg46">22</tspan></text></switch>
+  <switch><text id="text6318" x="235.29158" y="177.36621"><tspan id="trsvg47">23</tspan></text></switch>
+  <switch><text id="text6320" x="275.2916" y="177.36621"><tspan id="trsvg48">24</tspan></text></switch>
+  <switch><text id="text6322" x="315.2916" y="177.36621"><tspan id="trsvg49">25</tspan></text></switch>
+  <switch><text id="text6324" x="355.2916" y="177.36621"><tspan id="trsvg50">26</tspan></text></switch>
+  <switch><text id="text6326" x="395.2916" y="177.36621"><tspan id="trsvg51">27</tspan></text></switch>
+  <switch><text id="text6328" x="435.2916" y="177.36621"><tspan id="trsvg52">28</tspan></text></switch>
+  <switch><text id="text6330" x="475.2916" y="177.36621"><tspan id="trsvg53">29</tspan></text></switch>
+  <switch><text id="text6332" x="515.29156" y="177.36621"><tspan id="trsvg54">30</tspan></text></switch>
+  <switch><text id="text6334" x="555.29156" y="177.36621"><tspan id="trsvg55">31</tspan></text></switch>
+  <switch><text id="text6336" x="595.29156" y="177.36621"><tspan id="trsvg56">32</tspan></text></switch>
+  <switch><text id="text6338" x="635.29156" y="177.36621"><tspan id="trsvg57">33</tspan></text></switch>
+  <switch><text id="text6340" x="675.29156" y="177.36621"><tspan id="trsvg58">34</tspan></text></switch>
+  <switch><text id="text6342" x="715.29156" y="177.36621"><tspan id="trsvg59">35</tspan></text></switch>
+  <switch><text id="text6344" x="755.29156" y="177.36621"><tspan id="trsvg60">36</tspan></text></switch>
+  <switch><text id="text6346" x="75.29158" y="177.36621"><tspan id="trsvg61">19</tspan></text></switch>
+  <switch><text id="text6348" x="115.29156" y="193.36621"><tspan id="trsvg62">Ca</tspan></text></switch>
+  <switch><text id="text6350" x="155.29158" y="193.36621"><tspan id="trsvg63">Sc</tspan></text></switch>
+  <switch><text id="text6352" x="195.29158" y="193.36621"><tspan id="trsvg64">Ti</tspan></text></switch>
+  <switch><text id="text6354" x="235.29158" y="193.36621"><tspan id="trsvg65">V</tspan></text></switch>
+  <switch><text id="text6356" x="275.2916" y="193.36621"><tspan id="trsvg66">Cr</tspan></text></switch>
+  <switch><text id="text6358" x="315.2916" y="193.36621"><tspan id="trsvg67">Mn</tspan></text></switch>
+  <switch><text id="text6360" x="355.2916" y="193.36621"><tspan id="trsvg68">Fe</tspan></text></switch>
+  <switch><text id="text6362" x="395.2916" y="193.36621"><tspan id="trsvg69">Co</tspan></text></switch>
+  <switch><text id="text6364" x="435.2916" y="193.36621"><tspan id="trsvg70">Ni</tspan></text></switch>
+  <switch><text id="text6366" x="475.2916" y="193.36621"><tspan id="trsvg71">Cu</tspan></text></switch>
+  <switch><text id="text6368" x="515.29156" y="193.36621"><tspan id="trsvg72">Zn</tspan></text></switch>
+  <switch><text id="text6370" x="555.29156" y="193.36621"><tspan id="trsvg73">Ga</tspan></text></switch>
+  <switch><text id="text6372" x="595.29156" y="193.36621"><tspan id="trsvg74">Ge</tspan></text></switch>
+  <switch><text id="text6374" x="635.29156" y="193.36621"><tspan id="trsvg75">As</tspan></text></switch>
+  <switch><text id="text6376" x="675.29156" y="193.36621"><tspan id="trsvg76">Se</tspan></text></switch>
+  <switch><text id="text6378" x="715.29156" y="193.36621"><tspan id="trsvg77">Br</tspan></text></switch>
+  <switch><text id="text6380" x="755.29156" y="193.36621"><tspan id="trsvg78">Kr</tspan></text></switch>
+  <switch><text id="text6382" x="75.29158" y="193.36621"><tspan id="trsvg79">K</tspan></text></switch>
+  <switch><text id="text6384" x="115.29156" y="217.36621"><tspan id="trsvg80">38</tspan></text></switch>
+  <switch><text id="text6386" x="155.29158" y="217.36621"><tspan id="trsvg81">39</tspan></text></switch>
+  <switch><text id="text6388" x="195.29158" y="217.36621"><tspan id="trsvg82">40</tspan></text></switch>
+  <switch><text id="text6390" x="235.29158" y="217.36621"><tspan id="trsvg83">41</tspan></text></switch>
+  <switch><text id="text6392" x="275.2916" y="217.36621"><tspan id="trsvg84">42</tspan></text></switch>
+  <switch><text id="text6394" x="315.2916" y="217.36621"><tspan id="trsvg85">43</tspan></text></switch>
+  <switch><text id="text6396" x="355.2916" y="217.36621"><tspan id="trsvg86">44</tspan></text></switch>
+  <switch><text id="text6398" x="395.2916" y="217.36621"><tspan id="trsvg87">45</tspan></text></switch>
+  <switch><text id="text6400" x="435.2916" y="217.36621"><tspan id="trsvg88">46</tspan></text></switch>
+  <switch><text id="text6402" x="475.2916" y="217.36621"><tspan id="trsvg89">47</tspan></text></switch>
+  <switch><text id="text6404" x="515.29156" y="217.36621"><tspan id="trsvg90">48</tspan></text></switch>
+  <switch><text id="text6406" x="555.29156" y="217.36621"><tspan id="trsvg91">49</tspan></text></switch>
+  <switch><text id="text6408" x="595.29156" y="217.36621"><tspan id="trsvg92">50</tspan></text></switch>
+  <switch><text id="text6410" x="635.29156" y="217.36621"><tspan id="trsvg93">51</tspan></text></switch>
+  <switch><text id="text6412" x="675.29156" y="217.36621"><tspan id="trsvg94">52</tspan></text></switch>
+  <switch><text id="text6414" x="715.29156" y="217.36621"><tspan id="trsvg95">53</tspan></text></switch>
+  <switch><text id="text6416" x="755.29156" y="217.36621"><tspan id="trsvg96">54</tspan></text></switch>
+  <switch><text id="text6418" x="75.29158" y="217.36621"><tspan id="trsvg97">37</tspan></text></switch>
+  <switch><text id="text6420" x="475.2916" y="233.36621"><tspan id="trsvg98">Ag</tspan></text></switch>
+  <switch><text id="text6422" x="115.29156" y="233.36621"><tspan id="trsvg99">Sr</tspan></text></switch>
+  <switch><text id="text6424" x="155.29158" y="233.36621"><tspan id="trsvg100">Y</tspan></text></switch>
+  <switch><text id="text6426" x="195.29158" y="233.36621"><tspan id="trsvg101">Zr</tspan></text></switch>
+  <switch><text id="text6428" x="235.29158" y="233.36621"><tspan id="trsvg102">Nb</tspan></text></switch>
+  <switch><text id="text6430" x="275.2916" y="233.36621"><tspan id="trsvg103">Mo</tspan></text></switch>
+  <switch><text id="text6432" x="315.2916" y="233.36621"><tspan id="trsvg104">Tc</tspan></text></switch>
+  <switch><text id="text6434" x="355.2916" y="233.36621"><tspan id="trsvg105">Ru</tspan></text></switch>
+  <switch><text id="text6436" x="395.2916" y="233.36621"><tspan id="trsvg106">Rh</tspan></text></switch>
+  <switch><text id="text6438" x="435.2916" y="233.36621"><tspan id="trsvg107">Pd</tspan></text></switch>
+  <switch><text id="text6440" x="515.29156" y="233.36621"><tspan id="trsvg108">Cd</tspan></text></switch>
+  <switch><text id="text6442" x="555.29156" y="233.36621"><tspan id="trsvg109">In</tspan></text></switch>
+  <switch><text id="text6444" x="595.29156" y="233.36621"><tspan id="trsvg110">Sn</tspan></text></switch>
+  <switch><text id="text6446" x="635.29156" y="233.36621"><tspan id="trsvg111">Sb</tspan></text></switch>
+  <switch><text id="text6448" x="675.29156" y="233.36621"><tspan id="trsvg112">Te</tspan></text></switch>
+  <switch><text id="text6450" x="715.29156" y="233.36621"><tspan id="trsvg113">I</tspan></text></switch>
+  <switch><text id="text6452" x="755.29156" y="233.36621"><tspan id="trsvg114">Xe</tspan></text></switch>
+  <switch><text id="text6454" x="75.29158" y="233.36621"><tspan id="trsvg115">Rb</tspan></text></switch>
+  <switch><text id="text6456" x="115.29156" y="257.36621"><tspan id="trsvg116">56</tspan></text></switch>
+  <switch><text id="text6458" x="195.29158" y="257.36621"><tspan id="trsvg117">72</tspan></text></switch>
+  <switch><text id="text6460" x="235.29158" y="257.36621"><tspan id="trsvg118">73</tspan></text></switch>
+  <switch><text id="text6462" x="275.2916" y="257.36621"><tspan id="trsvg119">74</tspan></text></switch>
+  <switch><text id="text6464" x="315.2916" y="257.36621"><tspan id="trsvg120">75</tspan></text></switch>
+  <switch><text id="text6466" x="355.2916" y="257.36621"><tspan id="trsvg121">76</tspan></text></switch>
+  <switch><text id="text6468" x="395.2916" y="257.36621"><tspan id="trsvg122">77</tspan></text></switch>
+  <switch><text id="text6470" x="435.2916" y="257.36621"><tspan id="trsvg123">78</tspan></text></switch>
+  <switch><text id="text6472" x="475.2916" y="257.36621"><tspan id="trsvg124">79</tspan></text></switch>
+  <switch><text id="text6474" x="515.29156" y="257.36621"><tspan id="trsvg125">80</tspan></text></switch>
+  <switch><text id="text6476" x="555.29156" y="257.36621"><tspan id="trsvg126">81</tspan></text></switch>
+  <switch><text id="text6478" x="595.29156" y="257.36621"><tspan id="trsvg127">82</tspan></text></switch>
+  <switch><text id="text6480" x="635.29156" y="257.36621"><tspan id="trsvg128">83</tspan></text></switch>
+  <switch><text id="text6482" x="675.29156" y="257.36621"><tspan id="trsvg129">84</tspan></text></switch>
+  <switch><text id="text6484" x="715.29156" y="257.36621"><tspan id="trsvg130">85</tspan></text></switch>
+  <switch><text id="text6486" x="755.29156" y="257.36621"><tspan id="trsvg131">86</tspan></text></switch>
+  <switch><text id="text6488" x="75.29158" y="257.36621"><tspan id="trsvg132">55</tspan></text></switch>
+  <switch><text id="text6490" x="115.29156" y="273.36621"><tspan id="trsvg133">Ba</tspan></text></switch>
+  <switch><text id="text6492" x="195.29158" y="273.36621"><tspan id="trsvg134">Hf</tspan></text></switch>
+  <switch><text id="text6494" x="235.29158" y="273.36621"><tspan id="trsvg135">Ta</tspan></text></switch>
+  <switch><text id="text6496" x="275.2916" y="273.36621"><tspan id="trsvg136">W</tspan></text></switch>
+  <switch><text id="text6498" x="315.2916" y="273.36621"><tspan id="trsvg137">Re</tspan></text></switch>
+  <switch><text id="text6500" x="355.2916" y="273.36621"><tspan id="trsvg138">Os</tspan></text></switch>
+  <switch><text id="text6502" x="395.2916" y="273.36621"><tspan id="trsvg139">Ir</tspan></text></switch>
+  <switch><text id="text6504" x="435.2916" y="273.36621"><tspan id="trsvg140">Pt</tspan></text></switch>
+  <switch><text id="text6506" x="475.2916" y="273.36621"><tspan id="trsvg141">Au</tspan></text></switch>
+  <switch><text id="text6508" x="515.29156" y="273.36621"><tspan id="trsvg142">Hg</tspan></text></switch>
+  <switch><text id="text6510" x="555.29156" y="273.36621"><tspan id="trsvg143">Tl</tspan></text></switch>
+  <switch><text id="text6512" x="595.29156" y="273.36621"><tspan id="trsvg144">Pb</tspan></text></switch>
+  <switch><text id="text6514" x="635.29156" y="273.36621"><tspan id="trsvg145">Bi</tspan></text></switch>
+  <switch><text id="text6516" x="675.29156" y="273.36621"><tspan id="trsvg146">Po</tspan></text></switch>
+  <switch><text id="text6518" x="715.29156" y="273.36621"><tspan id="trsvg147">At</tspan></text></switch>
+  <switch><text id="text6520" x="755.29156" y="273.36621"><tspan id="trsvg148">Rn</tspan></text></switch>
+  <switch><text id="text6522" x="75.29158" y="273.36621"><tspan id="trsvg149">Cs</tspan></text></switch>
+  <switch><text id="text6524" x="115.29156" y="297.36621"><tspan id="trsvg150">88</tspan></text></switch>
+  <switch><text id="text6526" x="195.29158" y="297.36621"><tspan id="trsvg151">104</tspan></text></switch>
+  <switch><text id="text6528" x="235.29158" y="297.36621"><tspan id="trsvg152">105</tspan></text></switch>
+  <switch><text id="text6530" x="275.2916" y="297.36621"><tspan id="trsvg153">106</tspan></text></switch>
+  <switch><text id="text6532" x="315.2916" y="297.36621"><tspan id="trsvg154">107</tspan></text></switch>
+  <switch><text id="text6534" x="355.2916" y="297.36621"><tspan id="trsvg155">108</tspan></text></switch>
+  <switch><text id="text6536" x="395.2916" y="297.36621"><tspan id="trsvg156">109</tspan></text></switch>
+  <switch><text id="text6538" x="435.2916" y="297.36621"><tspan id="trsvg157">110</tspan></text></switch>
+  <switch><text id="text6540" x="475.2916" y="297.36621"><tspan id="trsvg158">111</tspan></text></switch>
+  <switch><text id="text6542" x="515.29156" y="297.36621"><tspan id="trsvg159">112</tspan></text></switch>
+  <switch><text id="text6544" x="555.29156" y="297.36621"><tspan id="trsvg160">113</tspan></text></switch>
+  <switch><text id="text6546" x="595.29156" y="297.36621"><tspan id="trsvg161">114</tspan></text></switch>
+  <switch><text id="text6548" x="635.29156" y="297.36621"><tspan id="trsvg162">115</tspan></text></switch>
+  <switch><text id="text6550" x="675.29156" y="297.36621"><tspan id="trsvg163">116</tspan></text></switch>
+  <switch><text id="text6552" x="715.29156" y="297.36621"><tspan id="trsvg164">117</tspan></text></switch>
+  <switch><text id="text6554" x="755.29156" y="297.36621"><tspan id="trsvg165">118</tspan></text></switch>
+  <switch><text id="text6556" x="75.29158" y="297.36621"><tspan id="trsvg166">87</tspan></text></switch>
+  <switch><text id="text6558" x="275.2916" y="313.36621"><tspan id="trsvg167">Sg</tspan></text></switch>
+  <switch><text id="text6560" x="475.2916" y="313.36621"><tspan id="trsvg168">Rg</tspan></text></switch>
+  <switch><text id="text6562" x="595.29156" y="313.36621"><tspan id="trsvg169">Fl</tspan></text></switch>
+  <switch><text id="text6564" x="635.29156" y="313.36621"><tspan id="trsvg170">Ms</tspan></text></switch>
+  <switch><text id="text6566" x="115.29156" y="313.36621"><tspan id="trsvg171">Ra</tspan></text></switch>
+  <switch><text id="text6568" x="195.29158" y="313.36621"><tspan id="trsvg172">Rf</tspan></text></switch>
+  <switch><text id="text6570" x="235.29158" y="313.36621"><tspan id="trsvg173">Db</tspan></text></switch>
+  <switch><text id="text6572" x="315.2916" y="313.36621"><tspan id="trsvg174">Bh</tspan></text></switch>
+  <switch><text id="text6574" x="355.2916" y="313.36621"><tspan id="trsvg175">Hs</tspan></text></switch>
+  <switch><text id="text6576" x="395.2916" y="313.36621"><tspan id="trsvg176">Mt</tspan></text></switch>
+  <switch><text id="text6578" x="435.2916" y="313.36621"><tspan id="trsvg177">Ds</tspan></text></switch>
+  <switch><text id="text6580" x="515.29156" y="313.36621"><tspan id="trsvg178">Cn</tspan></text></switch>
+  <switch><text id="text6582" x="555.29156" y="313.36621"><tspan id="trsvg179">Nh</tspan></text></switch>
+  <switch><text id="text6584" x="675.29156" y="313.36621"><tspan id="trsvg180">Lv</tspan></text></switch>
+  <switch><text id="text6586" x="715.29156" y="313.36621"><tspan id="trsvg181">Ts</tspan></text></switch>
+  <switch><text id="text6588" x="755.29156" y="313.36621"><tspan id="trsvg182">Og</tspan></text></switch>
+  <switch><text id="text6590" x="75.29158" y="313.36621"><tspan id="trsvg183">Fr</tspan></text></switch>
+  <g id="g3623" transform="translate(-46.608423,-12.413682)">
+    <g style="fill:#ffbfff;stroke:#000000;stroke-width:1" id="lanthanides" transform="translate(183.5,390.5)">
+      <path id="path6125" d="M 0,0 V -36 H 36 V 0 z"/>
+      <path id="path6127" d="M 40,0 V -36 H 76 V 0 z"/>
+      <path id="path6129" d="m 80,0 v -36 h 36 V 0 z"/>
+      <path id="path6131" d="m 120,0 v -36 h 36 V 0 z"/>
+      <path id="path6133" d="m 160,0 v -36 h 36 V 0 z"/>
+      <path id="path6135" d="m 200,0 v -36 h 36 V 0 z"/>
+      <path id="path6137" d="m 240,0 v -36 h 36 V 0 z"/>
+      <path id="path6139" d="m 280,0 v -36 h 36 V 0 z"/>
+      <path id="path6141" d="m 320,0 v -36 h 36 V 0 z"/>
+      <path id="path6143" d="m 360,0 v -36 h 36 V 0 z"/>
+      <path id="path6145" d="m 400,0 v -36 h 36 V 0 z"/>
+      <path id="path6147" d="m 440,0 v -36 h 36 V 0 z"/>
+      <path id="path6149" d="m 480,0 v -36 h 36 V 0 z"/>
+      <path id="path6151" d="m 520,0 v -36 h 36 V 0 z"/>
+      <path id="path6153" d="m 560,0 v -36 h 36 V 0 z"/>
+    </g>
+    <g style="fill:#ff99cc;stroke:#000000;stroke-width:1" id="actinidess" transform="translate(183.5,430.5)">
+      <path id="path6156" d="M 0,0 V -36 H 36 V 0 z"/>
+      <path id="path6158" d="M 40,0 V -36 H 76 V 0 z"/>
+      <path id="path6160" d="m 80,0 v -36 h 36 V 0 z"/>
+      <path id="path6162" d="m 120,0 v -36 h 36 V 0 z"/>
+      <path id="path6164" d="m 160,0 v -36 h 36 V 0 z"/>
+      <path id="path6166" d="m 200,0 v -36 h 36 V 0 z"/>
+      <path id="path6168" d="m 240,0 v -36 h 36 V 0 z"/>
+      <path id="path6170" d="m 280,0 v -36 h 36 V 0 z"/>
+      <path id="path6172" d="m 320,0 v -36 h 36 V 0 z"/>
+      <path id="path6174" d="m 360,0 v -36 h 36 V 0 z"/>
+      <path id="path6176" d="m 400,0 v -36 h 36 V 0 z"/>
+      <path id="path6178" d="m 440,0 v -36 h 36 V 0 z"/>
+      <path id="path6180" d="m 480,0 v -36 h 36 V 0 z"/>
+      <path id="path6182" d="m 520,0 v -36 h 36 V 0 z"/>
+      <path id="path6184" d="m 560,0 v -36 h 36 V 0 z"/>
+    </g>
+    <switch><text y="368.5" x="201.5" id="text6592"><tspan id="trsvg184">57</tspan></text></switch>
+    <switch><text y="368.5" x="241.5" id="text6594"><tspan id="trsvg185">58</tspan></text></switch>
+    <switch><text y="368.5" x="281.5" id="text6596"><tspan id="trsvg186">59</tspan></text></switch>
+    <switch><text y="368.5" x="321.5" id="text6598"><tspan id="trsvg187">60</tspan></text></switch>
+    <switch><text y="368.5" x="361.5" id="text6600"><tspan id="trsvg188">61</tspan></text></switch>
+    <switch><text y="368.5" x="401.5" id="text6602"><tspan id="trsvg189">62</tspan></text></switch>
+    <switch><text y="368.5" x="441.5" id="text6604"><tspan id="trsvg190">63</tspan></text></switch>
+    <switch><text y="368.5" x="481.5" id="text6606"><tspan id="trsvg191">64</tspan></text></switch>
+    <switch><text y="368.5" x="521.5" id="text6608"><tspan id="trsvg192">65</tspan></text></switch>
+    <switch><text y="368.5" x="561.5" id="text6610"><tspan id="trsvg193">66</tspan></text></switch>
+    <switch><text y="368.5" x="601.5" id="text6612"><tspan id="trsvg194">67</tspan></text></switch>
+    <switch><text y="368.5" x="641.5" id="text6614"><tspan id="trsvg195">68</tspan></text></switch>
+    <switch><text y="368.5" x="681.5" id="text6616"><tspan id="trsvg196">69</tspan></text></switch>
+    <switch><text y="368.5" x="721.5" id="text6618"><tspan id="trsvg197">70</tspan></text></switch>
+    <switch><text y="368.5" x="761.5" id="text6620"><tspan id="trsvg198">71</tspan></text></switch>
+    <switch><text y="384.5" x="561.5" id="text6622"><tspan id="trsvg199">Dy</tspan></text></switch>
+    <switch><text y="384.5" x="201.5" id="text6624"><tspan id="trsvg200">La</tspan></text></switch>
+    <switch><text y="384.5" x="241.5" id="text6626"><tspan id="trsvg201">Ce</tspan></text></switch>
+    <switch><text y="384.5" x="281.5" id="text6628"><tspan id="trsvg202">Pr</tspan></text></switch>
+    <switch><text y="384.5" x="321.5" id="text6630"><tspan id="trsvg203">Nd</tspan></text></switch>
+    <switch><text y="384.5" x="361.5" id="text6632"><tspan id="trsvg204">Pm</tspan></text></switch>
+    <switch><text y="384.5" x="401.5" id="text6634"><tspan id="trsvg205">Sm</tspan></text></switch>
+    <switch><text y="384.5" x="441.5" id="text6636"><tspan id="trsvg206">Eu</tspan></text></switch>
+    <switch><text y="384.5" x="481.5" id="text6638"><tspan id="trsvg207">Gd</tspan></text></switch>
+    <switch><text y="384.5" x="521.5" id="text6640"><tspan id="trsvg208">Tb</tspan></text></switch>
+    <switch><text y="384.5" x="601.5" id="text6642"><tspan id="trsvg209">Ho</tspan></text></switch>
+    <switch><text y="384.5" x="641.5" id="text6644"><tspan id="trsvg210">Er</tspan></text></switch>
+    <switch><text y="384.5" x="681.5" id="text6646"><tspan id="trsvg211">Tm</tspan></text></switch>
+    <switch><text y="384.5" x="721.5" id="text6648"><tspan id="trsvg212">Yb</tspan></text></switch>
+    <switch><text y="384.5" x="761.5" id="text6650"><tspan id="trsvg213">Lu</tspan></text></switch>
+    <switch><text y="408.5" x="201.5" id="text6652"><tspan id="trsvg214">89</tspan></text></switch>
+    <switch><text y="408.5" x="241.5" id="text6654"><tspan id="trsvg215">90</tspan></text></switch>
+    <switch><text y="408.5" x="281.5" id="text6656"><tspan id="trsvg216">91</tspan></text></switch>
+    <switch><text y="408.5" x="321.5" id="text6658"><tspan id="trsvg217">92</tspan></text></switch>
+    <switch><text y="408.5" x="361.5" id="text6660"><tspan id="trsvg218">93</tspan></text></switch>
+    <switch><text y="408.5" x="401.5" id="text6662"><tspan id="trsvg219">94</tspan></text></switch>
+    <switch><text y="408.5" x="441.5" id="text6664"><tspan id="trsvg220">95</tspan></text></switch>
+    <switch><text y="408.5" x="481.5" id="text6666"><tspan id="trsvg221">96</tspan></text></switch>
+    <switch><text y="408.5" x="521.5" id="text6668"><tspan id="trsvg222">97</tspan></text></switch>
+    <switch><text y="408.5" x="561.5" id="text6670"><tspan id="trsvg223">98</tspan></text></switch>
+    <switch><text y="408.5" x="601.5" id="text6672"><tspan id="trsvg224">99</tspan></text></switch>
+    <switch><text y="408.5" x="641.5" id="text6674"><tspan id="trsvg225">100</tspan></text></switch>
+    <switch><text y="408.5" x="681.5" id="text6676"><tspan id="trsvg226">101</tspan></text></switch>
+    <switch><text y="408.5" x="721.5" id="text6678"><tspan id="trsvg227">102</tspan></text></switch>
+    <switch><text y="408.5" x="761.5" id="text6680"><tspan id="trsvg228">103</tspan></text></switch>
+    <switch><text y="424.5" x="201.5" id="text6682"><tspan id="trsvg229">Ac</tspan></text></switch>
+    <switch><text y="424.5" x="241.5" id="text6684"><tspan id="trsvg230">Th</tspan></text></switch>
+    <switch><text y="424.5" x="281.5" id="text6686"><tspan id="trsvg231">Pa</tspan></text></switch>
+    <switch><text y="424.5" x="321.5" id="text6688"><tspan id="trsvg232">U</tspan></text></switch>
+    <switch><text y="424.5" x="361.5" id="text6690"><tspan id="trsvg233">Np</tspan></text></switch>
+    <switch><text y="424.5" x="401.5" id="text6692"><tspan id="trsvg234">Pu</tspan></text></switch>
+    <switch><text y="424.5" x="441.5" id="text6694"><tspan id="trsvg235">Am</tspan></text></switch>
+    <switch><text y="424.5" x="481.5" id="text6696"><tspan id="trsvg236">Cm</tspan></text></switch>
+    <switch><text y="424.5" x="521.5" id="text6698"><tspan id="trsvg237">Bk</tspan></text></switch>
+    <switch><text y="424.5" x="561.5" id="text6700"><tspan id="trsvg238">Cf</tspan></text></switch>
+    <switch><text y="424.5" x="601.5" id="text6702"><tspan id="trsvg239">Es</tspan></text></switch>
+    <switch><text y="424.5" x="641.5" id="text6704"><tspan id="trsvg240">Fm</tspan></text></switch>
+    <switch><text y="424.5" x="681.5" id="text6706"><tspan id="trsvg241">Md</tspan></text></switch>
+    <switch><text y="424.5" x="721.5" id="text6708"><tspan id="trsvg242">No</tspan></text></switch>
+    <switch><text y="424.5" x="761.5" id="text6710"><tspan id="trsvg243">Lr</tspan></text></switch>
+    <g transform="translate(-0.5,-56.5)" style="text-anchor:end;" id="g6716">
+      <switch>
+        <text id="text6718-ml" y="434" x="169" systemLanguage="ml"><tspan id="trsvg244-ml">ലാന്തനൈഡുകൾ</tspan></text>
+        
+      <text id="text6718-pt" y="434" x="169" systemLanguage="pt"><tspan id="trsvg244-pt">Lantanídeos</tspan></text><text id="text6718" y="434" x="169"><tspan id="trsvg244">Lanthanides</tspan></text></switch>
+      <switch>
+        <text id="text6720-ml" y="472" x="169" systemLanguage="ml"><tspan id="trsvg245-ml">ആക്റ്റിനൈഡുകൾ</tspan></text>
+        
+      <text id="text6720-pt" y="472" x="169" systemLanguage="pt"><tspan id="trsvg245-pt">Actinídeos</tspan></text><text id="text6720" y="472" x="169"><tspan id="trsvg245">Actinides</tspan></text></switch>
+    </g>
+  </g>
+  <g id="g4556" transform="translate(4.0226457,6.1287688)">
+    <switch style="text-anchor:start;">
+      <text x="19.919443" y="30.935837" id="text6714-ml" systemLanguage="ml"><tspan id="trsvg246-ml">പീരീഡ് </tspan></text>
+      
+    <text x="19.919443" y="30.935837" id="text6714-pt" systemLanguage="pt"><tspan id="trsvg246-pt">Período</tspan></text><text x="19.919443" y="30.935837" id="text6714"><tspan id="trsvg246">Period</tspan></text></switch>
+    <path d="m 13.110969,18.199064 h 1 v 10 h -2 l 2.5,4 2.5,-4 h -2 v -10" id="path6722" style="fill:#000000"/>
+  </g>
+  <switch><text x="74.291588" y="17.034552" id="text6188"><tspan id="trsvg247">1</tspan></text></switch>
+  <switch><text x="114.29158" y="17.034552" id="text6190"><tspan id="trsvg248">2</tspan></text></switch>
+  <switch><text x="154.29158" y="17.034552" id="text6192"><tspan id="trsvg249">3</tspan></text></switch>
+  <switch><text x="194.29158" y="17.034552" id="text6194"><tspan id="trsvg250">4</tspan></text></switch>
+  <switch><text x="234.29158" y="17.034552" id="text6196"><tspan id="trsvg251">5</tspan></text></switch>
+  <switch><text x="274.2916" y="17.034552" id="text6198"><tspan id="trsvg252">6</tspan></text></switch>
+  <switch><text x="314.2916" y="17.034552" id="text6200"><tspan id="trsvg253">7</tspan></text></switch>
+  <switch><text x="354.2916" y="17.034552" id="text6202"><tspan id="trsvg254">8</tspan></text></switch>
+  <switch><text x="394.2916" y="17.034552" id="text6204"><tspan id="trsvg255">9</tspan></text></switch>
+  <switch><text x="434.2916" y="17.034552" id="text6206"><tspan id="trsvg256">10</tspan></text></switch>
+  <switch><text x="474.2916" y="17.034552" id="text6208"><tspan id="trsvg257">11</tspan></text></switch>
+  <switch><text x="514.29156" y="17.034552" id="text6210"><tspan id="trsvg258">12</tspan></text></switch>
+  <switch><text x="554.29156" y="17.034552" id="text6212"><tspan id="trsvg259">13</tspan></text></switch>
+  <switch><text x="594.29156" y="17.034552" id="text6214"><tspan id="trsvg260">14</tspan></text></switch>
+  <switch><text x="634.29156" y="17.034552" id="text6216"><tspan id="trsvg261">15</tspan></text></switch>
+  <switch><text x="674.29156" y="17.034552" id="text6218"><tspan id="trsvg262">16</tspan></text></switch>
+  <switch><text x="714.29156" y="17.034552" id="text6220"><tspan id="trsvg263">17</tspan></text></switch>
+  <switch><text x="754.29156" y="17.034552" id="text6222"><tspan id="trsvg264">18</tspan></text></switch>
+  <switch style="text-anchor:start;">
+    <text id="text6712-ml" y="16.875" x="3.6640625" systemLanguage="ml"><tspan id="trsvg265-ml">ഗ്രൂപ്പ്</tspan></text>
+    
+  <text id="text6712-pt" y="16.875" x="3.6640625" systemLanguage="pt"><tspan id="trsvg265-pt">Grupo</tspan></text><text id="text6712" y="16.875" x="3.6640625"><tspan id="trsvg265">Group</tspan></text></switch>
+  <path style="fill:#000000" id="path6724" d="m 55.235469,11.101561 v 1 h 10 v -2 l 4,2.5 -4,2.5 v -2 h -10"/>
+</svg>

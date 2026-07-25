@@ -1,0 +1,58 @@
+[
+ {
+  "plik": "assets/ext_01_podstawy-pierwiastki.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Periodic_table.svg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Periodic_table.svg",
+  "licencja": "domena publiczna (autor: Cepheus, 2007)",
+  "slug": "podstawy-pierwiastki-wlasnosci-ekonomia-pierwiastkowa"
+ },
+ {
+  "plik": "assets/ext_02_geologia-i-zasoby-zl.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Baiyunebo_ast_2006181.jpg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Baiyunebo_ast_2006181.jpg",
+  "licencja": "domena publiczna (NASA Earth Observatory, zdjęcie satelitarne ASTER, 2006)",
+  "slug": "geologia-i-zasoby-zloz"
+ },
+ {
+  "plik": "assets/ext_03_wydobycie-upstream.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg",
+  "licencja": "CC BY-SA 4.0, autor Tmy350 (2022)",
+  "slug": "wydobycie-upstream"
+ },
+ {
+  "plik": "assets/ext_04_separacja-rafinacja-.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rareearthoxides.jpg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Rareearthoxides.jpg",
+  "licencja": "domena publiczna (USDA Agricultural Research Service, autorka Peggy Greb)",
+  "slug": "separacja-rafinacja-i-metalurgia"
+ },
+ {
+  "plik": "assets/ext_05_lancuch-magnesow-trw.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Neodymium_magnet_1140509.jpg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Neodymium_magnet_1140509.jpg",
+  "licencja": "CC BY-SA 3.0, autor Nevit Dilmen",
+  "slug": "lancuch-magnesow-trwalych-ndfeb-i-smco"
+ },
+ {
+  "plik": "assets/ext_07_geopolityka-i-koncen.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rareearth_production.svg",
+  "strona": "https://commons.wikimedia.org/wiki/File:Rareearth_production.svg",
+  "licencja": "domena publiczna (dane USGS, wektoryzacja BMacZero, 2010)",
+  "slug": "geopolityka-i-koncentracja-lancucha-dostaw"
+ },
+ {
+  "plik": "assets/ext_08_mapa-kluczowych-grac.jpg",
+  "url": "https://elements.visualcapitalist.com/wp-content/uploads/2021/10/Rare-Earth-Elements.jpg",
+  "strona": "https://www.visualcapitalist.com/rare-earth-elements-where-in-the-world-are-they/",
+  "licencja": "copyright Visual Capitalist - dozwolone bezpłatne udostępnianie w formie oryginalnej z linkiem zwrotnym i atrybucją do visualcapitalist.com (nie CC, zgoda wydawcy na niekomercyjne share); zweryfikowano HTTP 200 / image/jpeg bezpośrednim zapytaniem (narzędzie WebFetch było blokowane przez ochronę antybotową CDN, ale zwykłe pobranie działa)",
+  "slug": "mapa-kluczowych-graczy-w-lancuchu"
+ },
+ {
+  "plik": "assets/ext_06_popyt-i-zastosowania.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg",
+  "strona": "https://commons.wikimedia.org/wiki/File:One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg",
+  "licencja": "CC BY-SA 4.0, autorka Eileen at OE (One Energy)",
+  "slug": "popyt-i-zastosowania-koncowe"
+ }
+]
